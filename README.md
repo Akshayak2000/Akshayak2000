@@ -7,6 +7,10 @@
 - 🌱 I’m currently learning
 -         Advanced Penetration Testing: Expanding knowledge in exploit development, web application security, and ethical hacking methodologies.
 -         And also Strengthening understanding of securing APIs, tokenization, and mitigating modern attack vectors like SSRF and API misconfigurations
+
+  Projects:
+          Worked on yeild prediction using ML techniques which gives the accurate prediction of the crops based on the previous or earlier years yeild,cost and many factors
+          professionally worked on rest api's where nokia is backed 
 -     
 -  Skills&Tools:
 -        Languages: Python, JavaScript
